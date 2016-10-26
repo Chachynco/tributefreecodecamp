@@ -1,0 +1,23 @@
+#font {
+    font-family: Lobster
+  }
+Img{
+  border: 1px solid orange;
+}
+#caption
+{
+  font-family: Sans Sherif
+}
+body {
+  background-color: #FFFFCC;
+}
+#timeline{
+  background: orange;
+  box-shadow: 10px 10px 10px #aaa;
+  color: grey; 
+}
+ul{
+  margin-left: 10px;
+  margin-right: 20px;
+}
+ 
